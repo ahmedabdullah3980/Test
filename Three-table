@@ -34,7 +34,7 @@
 			  endwhile; ?>
 			  </ul>
 			<?php else :
-			  // no rows found
+			  // no rows founds
 			  endif; ?>
 
 			<?php
